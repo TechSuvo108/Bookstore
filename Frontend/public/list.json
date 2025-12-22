@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "A collection of short stories that spark imagination and creativity.",
+    "price": 0,
+    "category": "Free",
+    "image": "/images/Book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Fitness Guide Book",
+    "title": "Workout routines and health tips for a fit lifestyle.",
+    "price": 60,
+    "category": "Fitness",
+    "image": "/images/Book.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Music Book",
+    "title": "An introduction to music theory and famous musicians.",
+    "price": 0,
+    "category": "Free",
+    "image": "/images/Book.jpg"
+  },
+  {
+    "id": 4,
+    "name": "History Book",
+    "title": "Basic overview of important historical events.",
+    "price": 0,
+    "category": "Free",
+    "image": "/images/Book.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Science Book",
+    "title": "Explains basic science concepts in an easy way.",
+    "price": 0,
+    "category": "Free",
+    "image": "/images/Book.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Web Development Book",
+    "title": "Covers HTML, CSS, and JavaScript for beginners.",
+    "price": 120,
+    "category": "Technology",
+    "image": "/images/Book.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Kids Story Book",
+    "title": "Fun and moral stories specially written for kids.",
+    "price": 0,
+    "category": "Free",
+    "image": "/images/Book.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Advanced Cooking Book",
+    "title": "Detailed cooking techniques for professional dishes.",
+    "price": 20,
+    "category": "Food",
+    "image": "/images/Book.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Motivation Book",
+    "title": "Simple lessons to stay positive and motivated in life.",
+    "price": 0,
+    "category": "Free",
+    "image": "/images/Book.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Guitar Learning Book",
+    "title": "Step-by-step guide to learn guitar from basics.",
+    "price": 90,
+    "category": "Music",
+    "image": "/images/Book.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Food Book",
+    "title": "Learn simple and tasty recipes from different cultures.",
+    "price": 0,
+    "category": "Free",
+    "image": "/images/Book.jpg"
+  }
+]

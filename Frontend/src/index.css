@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@500&display=swap');
+@import "tailwindcss";
+@plugin "daisyui" {
+   themes: light --default, dark --prefersdark;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* APPLY ONLY IN LIGHT MODE */
+[data-theme="light"] .freebook-slider .slick-prev::before,
+[data-theme="light"] .freebook-slider .slick-next::before {
+  color: #000;
+}
+
+[data-theme="light"] .freebook-slider .slick-dots li button:before {
+  color: #000;
+}
